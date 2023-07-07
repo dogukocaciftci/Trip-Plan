@@ -1,0 +1,13 @@
+1.Bu projeyi geliştirirken ilk projemden farklı olarak State kavramını ve piece of state kavramını öğrendim.
+2.Bu kavramları öğrenmek bana componentleri anlamamda çok yardımcı oldu. Component yapısını işlemlerimi
+daha hakim olarak gerçekleştirdim
+3.React Developer tools ile çalıştım ve statelerimi oradan kontrol ederek çalışma mantıklarına daha da hakim oldum.
+4.Controlled Elements kavramını kullanımını öğrendim 
+5.State Management ile ilgili temel kavramlar hakkında fikir sahibi oldum.
+6.Liftin Up State kavramını öğrenerek React ile sadece parent to child ilişkisi olmadığını dataflowu sağlamak için 
+gerektiği yerde Lifting Up State kullanarak child to parent iletişiminin sağlanabileceğini öğrendim.
+7.Derived State kavramını öğrendim ve uyguladım ayrıca dosya yapılarının nasıl olması gerektiği hakkında bilgi sahibi
+oldum.
+8.Ayrıca işin içine biraz basic CSS bilgimi de kattım.
+
+ce bunların yanında kendi başıma birkaç tane coding exercise da tamamladım.
